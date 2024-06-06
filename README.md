@@ -4,7 +4,7 @@ Sharif University - Spring 2021
 
 Programming Language Design - Dr. Izadi
 
- - [Slides]()
+ - [Slides (8)](https://github.com/saaz742/Programming-Language-Design/tree/main/slides)
  - [HWs](https://github.com/saaz742/Programming-Language-Design/tree/main/HWs)
     - [1](https://github.com/saaz742/Programming-Language-Design/tree/main/HWs/1)
     - [2](https://github.com/saaz742/Programming-Language-Design/tree/main/HWs/2)
